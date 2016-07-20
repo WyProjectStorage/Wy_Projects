@@ -1,0 +1,13 @@
+PODS:
+  - DateTools (1.7.0)
+  - Masonry (1.0.0)
+
+DEPENDENCIES:
+  - DateTools
+  - Masonry
+
+SPEC CHECKSUMS:
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+
+COCOAPODS: 0.39.0
